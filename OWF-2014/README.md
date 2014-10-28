@@ -1,6 +1,8 @@
 Open World Forum 2014
 =====================
 
+View at: http://forj-oss.github.io/presentations/OWF-2014/index.html#/
+
 Explore Open Source, Open Hardware, Open Data and the Open Web.
 http://www.openworldforum.paris/
 
